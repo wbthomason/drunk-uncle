@@ -7,6 +7,7 @@
                  [ring "1.4.0"]
                  [compojure "1.4.0"]
                  [hiccup "1.0.5"]
+                 [edu.stanford.nlp/stanford-corenlp "1.2.0"]
                  ]
   :main ^:skip-aot drunk-uncle.core
   :target-path "target/%s"
